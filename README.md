@@ -2,6 +2,7 @@
 
 ## 🌍 Based in London, United Kingdom | [🔗 nazarimanesh.tech](https://www.nazarimanesh.tech)
 
+
 ### Professional Summary
 I am a Cyber Security MSc Graduate with extensive hands-on experience in malware analysis, digital forensics, network security, and penetration testing. With a robust academic background and practical skills in enhancing IT security frameworks, I'm adept at ensuring compliance within technologically advanced environments. My expertise also covers ISO:27001 and GDPR standards, and I am proficient in various cybersecurity tools and programming languages.
 
@@ -13,6 +14,10 @@ I am a Cyber Security MSc Graduate with extensive hands-on experience in malware
 - 📫 You can contact me at [contact@nazarimanesh.tech](mailto:contact@nazarimanesh.tech)
 - 💼 [LinkedIn](https://uk.linkedin.com/in/navid-nazarimanesh-a44229162)
 - 🐦 [Twitter](https://twitter.com/Navidnzrm)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/navidnzr)
+- 🔓 [Hack The Box](https://app.hackthebox.com/users/1840346)
+- 📝 [Medium](https://medium.com/@navid.nzrm)
+  
 
 ### Skills
 - **Cybersecurity Standards:** Expert in security frameworks such as ISO:27001 and GDPR.
