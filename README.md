@@ -4,7 +4,7 @@
 
 
 ### Professional Summary
-I am a Cyber Security MSc Graduate with extensive hands-on experience in malware analysis, digital forensics, network security, and penetration testing. With a robust academic background and practical skills in enhancing IT security frameworks, I'm adept at ensuring compliance within technologically advanced environments. My expertise also covers ISO:27001 and GDPR standards, and I am proficient in various cybersecurity tools and programming languages.
+I am a Cyber Security MSc Graduate with extensive hands-on experience in malware analysis, digital forensics, network security, and penetration testing. With a robust academic background and practical skills in enhancing IT security frameworks, I'm adept at ensuring compliance within technologically advanced environments. My expertise also GDPR standards, and I am proficient in various cybersecurity tools and programming languages.
 
 ### What I'm Focusing On
 - 🌱 I’m currently learning more about advanced penetration testing techniques, bug bounty and deepening my cloud security skills, particularly within AWS environments. Additionally, I'm exploring the implications and enhancements of generative AI for cybersecurity response.
@@ -20,7 +20,6 @@ I am a Cyber Security MSc Graduate with extensive hands-on experience in malware
   
 
 ### Skills
-- **Cybersecurity Standards:** Expert in security frameworks such as ISO:27001 and GDPR.
 - **Penetration Testing Tools:** Proficient with Metasploit, Nessus, Kali Linux, OWASP ZAP, Burp Suite, and Wireshark.
 - **Digital Forensics:** Skilled in using Autopsy and Snort, among other tools.
 - **Programming:** Experienced in Python, Java, C#, Matlab, HTML, CSS, and JavaScript.
